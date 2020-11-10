@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+footer {
+  position: absolute;
+  bottom: 0px;
+  height: 35px;
+  width: 100%;
+  background-color: lightblue;
+}
+
+.navbar {
+  height: 52px;
+}
+
